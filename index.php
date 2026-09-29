@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Blueasy</title>
     <link rel="stylesheet" href="css/style.css" />
 </head>
+
 <body>
     <header>
         <div class="top-header">
-            <div class="top-header-content">
+            <div class="top-header-content wrapper">
                 <div class="logo">
                     <a href="">blu<span>e</span>asy</a>
                 </div>
@@ -23,11 +25,46 @@
                 </nav>
             </div>
         </div>
-<!-- hero class van gemaakt en met text align center gefixed - Elton -->
+        <!-- hero class van gemaakt en met text align center gefixed - Elton -->
         <div class="hero">
-            <h2>I'm looking for the unexpected. </h2>
-            <h2>I'm lookinf for things i've never seen before.</h2>
+            <p>" I'm looking for the unexpected. </p>
+            <p>I'm looking for things i've never seen before."</p>
         </div>
     </header>
+    <main>
+        <section id="services">
+            <div class="wrapper">
+                <h2><span>ser</span>vices</h2>
+                <div class="services">
+                    <div class="service">
+                        <img src="img/Icon_coffee.png" alt="coffee icon">
+                        <h3>Coffee</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor reiciendis nam molestias ipsum
+                        </p>
+                    </div>
+                    <div class="service">
+                        <img src="img/Icon_coffee.png" alt="coffee icon">
+                        <h3>Coffee</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor reiciendis nam molestias ipsum
+                        </p>
+                    </div>
+                    <div class="service">
+                        <img src="img/Icon_coffee.png" alt="coffee icon">
+                        <h3>Coffee</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor reiciendis nam molestias ipsum
+                        </p>
+                    </div>
+                    <div class="service">
+                        <img src="img/Icon_coffee.png" alt="coffee icon">
+                        <h3>Coffee</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor reiciendis nam molestias ipsum
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+    </main>
 </body>
+
 </html>
