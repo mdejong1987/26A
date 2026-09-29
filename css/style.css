@@ -7,6 +7,7 @@ body,
 html {
   background-color: red;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #fff;
 }
 header {
   background-image: url("/img/Hero.png");
@@ -64,4 +65,11 @@ header {
       }
     }
   }
+}
+
+
+.hero{
+  padding: 200px 0;
+  text-align: center;
+
 }

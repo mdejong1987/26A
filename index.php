@@ -24,8 +24,9 @@
             </div>
         </div>
 
-        <div>
-            <h2>I'm looking for the unexpected. I'm lookinf for things i've never seen before.</h2>
+        <div class="hero">
+            <h2>I'm looking for the unexpected. </h2>
+            <h2>I'm lookinf for things i've never seen before.</h2>
         </div>
     </header>
 </body>
