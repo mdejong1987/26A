@@ -23,7 +23,7 @@
                 </nav>
             </div>
         </div>
-
+<!-- hero class van gemaakt en met text align center gefixed - Elton -->
         <div class="hero">
             <h2>I'm looking for the unexpected. </h2>
             <h2>I'm lookinf for things i've never seen before.</h2>
